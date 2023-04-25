@@ -1,0 +1,22 @@
+E:\c++ projects\IntersectionApp\IntersectionApp\bin\Debug\IntersectionApp.exe.config
+E:\c++ projects\IntersectionApp\IntersectionApp\bin\Debug\IntersectionApp.exe
+E:\c++ projects\IntersectionApp\IntersectionApp\bin\Debug\IntersectionApp.pdb
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.AssemblyReference.cache
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.SuggestedBindingRedirects.cache
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.Form1.resources
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.Properties.Resources.resources
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.GenerateResource.cache
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.CoreCompileInputs.cache
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.exe
+E:\c++ projects\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.pdb
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\bin\Debug\IntersectionApp.exe.config
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\bin\Debug\IntersectionApp.exe
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\bin\Debug\IntersectionApp.pdb
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.AssemblyReference.cache
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.Form1.resources
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.Properties.Resources.resources
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.GenerateResource.cache
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.csproj.CoreCompileInputs.cache
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.exe
+C:\Users\MaGix.Pro\Desktop\IntersectionApp\IntersectionApp\obj\Debug\IntersectionApp.pdb
